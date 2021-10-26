@@ -1,6 +1,6 @@
 package com.example.mysqlandroid;
 
-import androidx.appcompat.app.AppCompatActivity;
+import droidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
